@@ -1,0 +1,13 @@
+C:\Work\converter(switch operator)\Convertor\Convertor\bin\Debug\netcoreapp3.1\Convertor.exe
+C:\Work\converter(switch operator)\Convertor\Convertor\bin\Debug\netcoreapp3.1\Convertor.deps.json
+C:\Work\converter(switch operator)\Convertor\Convertor\bin\Debug\netcoreapp3.1\Convertor.runtimeconfig.json
+C:\Work\converter(switch operator)\Convertor\Convertor\bin\Debug\netcoreapp3.1\Convertor.runtimeconfig.dev.json
+C:\Work\converter(switch operator)\Convertor\Convertor\bin\Debug\netcoreapp3.1\Convertor.dll
+C:\Work\converter(switch operator)\Convertor\Convertor\bin\Debug\netcoreapp3.1\Convertor.pdb
+C:\Work\converter(switch operator)\Convertor\Convertor\obj\Debug\netcoreapp3.1\Convertor.csprojAssemblyReference.cache
+C:\Work\converter(switch operator)\Convertor\Convertor\obj\Debug\netcoreapp3.1\Convertor.AssemblyInfoInputs.cache
+C:\Work\converter(switch operator)\Convertor\Convertor\obj\Debug\netcoreapp3.1\Convertor.AssemblyInfo.cs
+C:\Work\converter(switch operator)\Convertor\Convertor\obj\Debug\netcoreapp3.1\Convertor.csproj.CoreCompileInputs.cache
+C:\Work\converter(switch operator)\Convertor\Convertor\obj\Debug\netcoreapp3.1\Convertor.dll
+C:\Work\converter(switch operator)\Convertor\Convertor\obj\Debug\netcoreapp3.1\Convertor.pdb
+C:\Work\converter(switch operator)\Convertor\Convertor\obj\Debug\netcoreapp3.1\Convertor.genruntimeconfig.cache
